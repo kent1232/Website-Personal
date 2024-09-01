@@ -1,0 +1,67 @@
+.myBG {
+  height: 100vh;
+  background: url("../assets/images/bg/LOGO\ BG.jpg");
+  background-size: 100% 122%; /* Adjust the percentages as needed */
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+}
+
+
+.intro {
+  height: 650px;
+  display: flex;
+  justify-content: end;
+  
+}
+
+.title {
+  font-size: 4rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 10px;
+}
+
+.trending {
+  height: auto;
+  background: url("../assets/images/bg/BG\ 2.jpg");
+  background-size: 100% 122%; /* Adjust the percentages as needed */
+  background-repeat: no-repeat;
+ 
+  
+}
+
+.superhero {
+  height: auto;
+  background: url("../assets/images/bg/BG\ 2.jpg");
+  background-size: 100% 122%; /* Adjust the percentages as needed */
+  background-repeat: no-repeat;
+  background-position: 80% 50%;
+  
+}
+
+.movieWrapper {
+}
+
+.movieImage {
+  height: 400px;
+  background-color: black;
+  margin: 1%;
+  padding: 0px;
+}
+
+.images {
+  height: 500px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
